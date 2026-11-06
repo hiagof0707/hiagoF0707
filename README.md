@@ -1,26 +1,15 @@
+
+## 👋 Olá, eu sou Hiago Luiz Figueiredo!
+
 <div align="center">
-  <!-- Banner Colorido em Ondas -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,2,10,24,30&height=230&section=header&text=✨%20HIAGO%20✨&fontSize=52&fontColor=fff&animation=twinkle&fontAlignY=35" width="100%" alt="Header Hiago Banner" />
-
-  <br/>
-
+ 
   <!-- Digitação Animada Colorida -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF2A85&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Bem-vindo(a)+ao+meu+perfil!+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo!+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <br/><br/>
-
-  <!-- Botão Gmail Direto -->
-  <a href="mailto:hiagol0707@gmail.com">
-    <img src="https://img.shields.io/badge/Fale%20Comigo-hiagol0707%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Enviar e-mail para Hiago" />
-  </a>
-
-  <br/><br/>
-</div>
-
-
-## 👋 Olá, eu sou Hiago Luiz Figueiredo!
+  </div>
 
 ## 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -51,16 +40,13 @@ Aprimorar meus conhecimentos em programação.
 Desenvolver projetos cada vez mais completos.
 Aprender novas tecnologias e boas práticas.
 Construir minha carreira na área de tecnologia.
-## 🌎 Entrar em contato comigo. 
 
-📊 GitHub 
+## 🌎 Fale Comigo!
 
-https://github.com/hiagoF0707
+[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hiagoF0707)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hiagol0707@gmail.com)
 
-<a href="mailto:hiagol0707@gmail.com">
-    <img src="https://img.shields.io/badge/Fale%20Comigo-hiagol0707%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Enviar e-mail para Hiago" />
-  </a>
-
-  <br/><br/>
-
-⭐ "Todo grande desenvolvedor já foi um iniciante. O importante é nunca parar de aprender!"
+<div align="center">
+  
+  <p><i>"Em constante aprendizado, transformando linhas de código em soluções e ideias em realidade. 🚀"</i></p>
+</div>
