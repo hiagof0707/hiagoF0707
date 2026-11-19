@@ -1,20 +1,12 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:ff007f,100:fee440&height=220&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=58" />
-</div>
 
 
 
 ## 👋 Olá, eu sou Hiago Luiz Figueiredo!
 
 <div align="center">
- 
-  <!-- Digitação Animada Colorida -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF2A85&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Bem-vindo(a)+ao+meu+perfil!+%F0%9F%9A%80;Transformando+ideias+em+c%C3%B3digo!+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:ff007f,100:fee440&height=220&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=58" />
+</div>
 
-  <br/><br/>
-  </div>
 
 ## 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
