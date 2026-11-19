@@ -1,49 +1,73 @@
-
-
-
-## 👋 Olá, eu sou Hiago Luiz Figueiredo!
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:ff007f,100:fee440&height=220&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,50:3c096c,100:d90429&height=220&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=58&stroke=0d1117&strokeWidth=2" />
 </div>
 
+<h2 align="center">👋 Olá, eu sou Hiago Luiz Figueiredo!</h2>
 
-## 💻 Estudante de Análise e Desenvolvimento de Sistemas
+<p align="center">
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>CEUB (UniCEUB)</strong>, apaixonado por tecnologia e programação. Atualmente estou focado em desenvolver minhas habilidades em engenharia e desenvolvimento de software, criando projetos práticos para consolidar o aprendizado e evoluir constantemente como desenvolvedor.
+</p>
 
-Sou um estudante apaixonado por tecnologia e programação, atualmente desenvolvendo minhas habilidades em desenvolvimento de software. Estou sempre buscando aprender novas tecnologias, aprimorar meus conhecimentos e criar projetos que contribuam para minha evolução como desenvolvedor.
+---
 
-## 🚀 Tecnologias e ferramentas em Aprendizado 
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript" /><!-- Python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python" /><!-- Java -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="Java" />
+### 📚 Atualmente
 
-<!-- C# -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" alt="C#" /><!-- C++ -->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" alt="C++" />
+* 🌱 Aprendendo **lógica de programação**, **modelagem de banco de dados** e **desenvolvimento web**.
+* 💡 Desenvolvendo minhas habilidades em diferentes linguagens e paradigmas de programação.
+* 🛠️ Criando projetos acadêmicos e pessoais para colocar os conhecimentos em prática.
+* 📈 Evoluindo constantemente como desenvolvedor de software.
 
-<!-- HTML5 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="HTML5" /><!-- CSS -->
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" height="35" alt="CSS" />
+---
 
+### 🎯 Meus Objetivos
 
-## 📚 Atualmente
-🌱 Aprendendo lógica de programação e desenvolvimento web.
-💡 Desenvolvendo minhas habilidades em diferentes linguagens de programação.
-🛠️ Criando projetos para colocar meus conhecimentos em prática.
-📈 Evoluindo constantemente como desenvolvedor.
-## 🎯 Meus objetivos
-Aprimorar meus conhecimentos em programação.
-Desenvolver projetos cada vez mais completos.
-Aprender novas tecnologias e boas práticas.
-Construir minha carreira na área de tecnologia.
+* Aprimorar meus conhecimentos em programação e estrutura de dados.
+* Desenvolver projetos cada vez mais completos e bem estruturados.
+* Aprender novas tecnologias, ferramentas e boas práticas de código.
+* Construir uma carreira sólida na área de tecnologia.
 
-## 🌎 Fale Comigo!
+---
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hiagoF0707)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hiagol0707@gmail.com)
+### 🚀 Tecnologias e Ferramentas em Aprendizado
 
 <div align="center">
-  
-  <p><i>"Em constante aprendizado, transformando linhas de código em soluções e ideias em realidade. 🚀"</i></p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <a href="https://github.com/hiagof0707">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hiagof0707&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagof0707&layout=compact&langs_count=7&theme=radical&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
+---
+
+### 🌍 Fale Comigo!
+
+<div align="center">
+  <a href="https://github.com/hiagof0707" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:hiagol0707@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0096c7,50:3c096c,100:d90429&height=120&section=footer" />
 </div>
