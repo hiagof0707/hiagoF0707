@@ -1,6 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=matrix&color=0d1117&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Student&descSize=20&descAlignY=70" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:ff007f,100:fee440&height=220&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=58" />
 </div>
+
+
 
 ## 👋 Olá, eu sou Hiago Luiz Figueiredo!
 
